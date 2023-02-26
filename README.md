@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 7709361-API-REST-Symfony
 
 Ce projet sert de support au cours au cours sur API et Symfony d'Openclassrooms. 
@@ -43,3 +44,6 @@ Chaque branche du projet correspond à un chapitre du cours.
 En cas de soucis, référez-vous au cours d'Openclassrooms.
 
 Bonne chance !
+=======
+# Library
+>>>>>>> 62387e070a2a2350e02830be4c60d8c9862a72b7
